@@ -319,7 +319,6 @@ for i in list3:
 
 # Our prediction says the data is best classified by KNeighbour Classifier
 
-# In[ ]:
 
 
 
